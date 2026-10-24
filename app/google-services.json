@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689529405942",
+    "project_id": "travcheck-bd295",
+    "storage_bucket": "travcheck-bd295.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689529405942:android:aec0303080f8d8bac447d7",
+        "android_client_info": {
+          "package_name": "com.example.travcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOAVaI5lvrelCNEg8FFK0eWV-B4-KF78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
